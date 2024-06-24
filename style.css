@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    
+}
+.cart{
+
+    height: 350px;
+    width: 200px;
+   
+   
+  
+   
+
+}
+.para{
+    
+    padding-left: 8px;
+
+}
+
